@@ -4,9 +4,9 @@
         <img align="left" alt="BahaaBder LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
       </a>
       <a href="https://bahaa-bder-website.herokuapp.com/">
-        <img align="left" alt="BahaaBder Website" width="30px" src="https://image.pngaaa.com/400/486400-middle.png" />
+        <img align="left" alt="BahaaBder Website" width="24px" src="https://image.pngaaa.com/400/486400-middle.png" />
       </a>
-<br />
+      <br />
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: bahaa.bder97@gmail.com
 

@@ -19,4 +19,6 @@
 <code><img height="20" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react-logo.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/13494/1*X0TrU4AqW_u8x_GpgEGhGg.png"></code>
 <code><img height="20" src="https://logoeps.com/wp-content/uploads/2013/03/java-eps-vector-logo.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/mobx-logo-svg-vector.svg"></code>
+<code><img height="20" src="https://miro.medium.com/max/701/1*j8DELPVuI_w8045sxmHQsA.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>

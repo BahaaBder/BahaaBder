@@ -23,5 +23,5 @@
 <code><img height="20" src="https://miro.medium.com/max/701/1*j8DELPVuI_w8045sxmHQsA.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/2000/1*t9d16DIcJg_-dEg0X_qTWg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"></code>
-<code><img height="30" src="https://www.techaltum.com/img/sql.jpg"></code>
+<code><img height="60" src="https://www.techaltum.com/img/sql.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>

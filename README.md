@@ -8,7 +8,7 @@
       </a>
       <br />
 - 💬 Ask me about anything, I am happy to help 
-- 📫 How to reach me: bahaa.bder97@gmail.com <img src="https://user-images.githubusercontent.com/82746761/143905012-014f1374-6416-4089-8b2b-09a3ac2e916e.gif" width="150" height="150"/>
+- 📫 How to reach me: bahaa.bder97@gmail.com 
 
 <h3>Languages and Tools:</h3> <br/>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -25,6 +25,6 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"></code>
 <code><img height="40" src="https://www.techaltum.com/img/sql.jpg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<img src="https://user-images.githubusercontent.com/82746761/143905012-014f1374-6416-4089-8b2b-09a3ac2e916e.gif" width="100" height="100"/>
 
 

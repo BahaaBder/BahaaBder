@@ -1,13 +1,13 @@
 
 - 👋 Hi, I’m @BahaaBder <br/><br/>
-      <a href="https://www.linkedin.com/in/bahaa-bder-7683a8207/" style="color:blue">
+      <a href="https://www.linkedin.com/in/bahaa-bder-7683a8207/" >
         <img align="left" alt="BahaaBder LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
       </a>
       <a href="https://bahaa-bder-website.herokuapp.com/">
         <img align="left" alt="BahaaBder Website" width="24px" src="https://image.pngaaa.com/400/486400-middle.png" />
       </a>
       <br />
-- 💬 Ask me about anything, I am happy to help
+- 💬 <span style="color:blue">Ask me about anything, I am happy to help </span>
 - 📫 How to reach me: bahaa.bder97@gmail.com
 
 <h3>Languages and Tools:</h3> <br/>

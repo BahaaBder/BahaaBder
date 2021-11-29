@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @BahaaBder <br/><br/>
-      <a href="https://www.linkedin.com/in/bahaa-bder-7683a8207/">
+      <a href="https://www.linkedin.com/in/bahaa-bder-7683a8207/" style="color:blue">
         <img align="left" alt="BahaaBder LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
       </a>
       <a href="https://bahaa-bder-website.herokuapp.com/">

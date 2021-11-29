@@ -27,5 +27,5 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![cute-penguin](https://user-images.githubusercontent.com/82746761/143904566-51853467-eb23-42cb-a214-fe16a39ff2ee.gif)
+
 

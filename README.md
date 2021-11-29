@@ -1,4 +1,4 @@
-
+<img src="https://user-images.githubusercontent.com/82746761/143905012-014f1374-6416-4089-8b2b-09a3ac2e916e.gif" width="100" height="100"/>
 - 👋 Hi, I’m @BahaaBder <br/><br/>
       <a href="https://www.linkedin.com/in/bahaa-bder-7683a8207/" >
         <img align="left" alt="BahaaBder LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -25,6 +25,6 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"></code>
 <code><img height="40" src="https://www.techaltum.com/img/sql.jpg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<img src="https://user-images.githubusercontent.com/82746761/143905012-014f1374-6416-4089-8b2b-09a3ac2e916e.gif" width="100" height="100"/>
+
 
 

@@ -7,7 +7,6 @@
         <img align="left" alt="BahaaBder Website" width="24px" src="https://image.pngaaa.com/400/486400-middle.png" />
       </a>
       <br />
-- 💬 Ask me about anything, I am happy to help. <br/>
 - 📫 How to reach me: bahaa.bder97@gmail.com 
 
 <h3>Languages and Tools:</h3> <br/>
